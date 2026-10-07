@@ -13,4 +13,4 @@
 > ##. Работа с ветками
 
 > **git branch** - просмотр всех веток в репозитории  
-> **git branch branc_name** - перейти в ветку с именем *branch_name*
+> **git branch branc_name** - создать в ветку с именем *branch_name*
