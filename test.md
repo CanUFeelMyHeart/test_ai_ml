@@ -1,6 +1,8 @@
 # Инструкция по работе с Git
 
-hjertigofkpdwslwa;[nbvkmcz'a/mbgn fkmdcsaz'bmfkd,vl.c;nbmv,cx.bnvmc,x.z?bnv mc,x.z/nbv mc,/zbnvmc,xs.a/bvnfcmds,al.; nbmv,cx.z/
+## 1. Создание репозитория
+Чтобы создать пустой репозиторий, используем команду:  
+> **git init** - инициализация репозитория.
 
 ## 2. Добавление файла в отслеживание и коммит
 
